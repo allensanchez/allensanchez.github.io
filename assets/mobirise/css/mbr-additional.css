@@ -482,14 +482,15 @@ h6,
   background-color: #ffffff;
 }
 #header2-w .mbr-section-text P {
-  color: #000000;
+  color: #ffffff;
   text-align: left;
 }
 #header2-w .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
-#form1-11 .form-control-label {
-  color: #232323;
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
 }
 
 #menu-e .hide-buttons .nav-btn {
