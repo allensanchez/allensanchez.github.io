@@ -492,6 +492,9 @@ h6,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
 }
+#content7-12 P {
+  font-size: 19px;
+}
 
 #menu-i .hide-buttons .nav-btn {
   display: none !important;

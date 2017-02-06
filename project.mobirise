@@ -175,7 +175,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lolll-1400x1866.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -228,9 +228,14 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>I'm a 13 year old from Miami, Florida. I was born to two loving parents named Yusimi Coro and Wiler Sanchez. I also have two siblings, Wiler Sanchez and Melanie Sanchez. Ever since I was young I've always loved watching animated movies and seeing characters come to life. I would always make stop motion animations with Legos or anything in my sight. Animation and graphic design is a passin of mines. In the future I would want to pursue a career in animation and grapic design&nbsp;</p>",
-          "text2": "<p>&nbsp;For Middle School I attended Miami Arts Studios, magnet program, Tech Production. I joined Tech Production solely to learn programs like Photoshop, Illustrator, and 3D animation.&nbsp;</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>I'm a 13 year old from Miami, Florida. I was born to two loving parents named Yusimi Coro and Wiler Sanchez. I also have two siblings, Wiler Sanchez and Melanie Sanchez. Ever since I was young I've always loved watching animated movies and seeing characters come to life. I would always make stop motion animations with Legos or anything in my sight. Animation and graphic design is a passion of mines. In the future I would want to pursue a career in animation and grapic design&nbsp;</p>",
+          "text2": "<p>&nbsp;For Middle School I attended Miami Arts Studios, magnet program, Tech Production. I joined Tech Production solely to learn programs like Photoshop, Illustrator, and 3D animation, which can benefit me in the future. I still have 4 more years to learn and improve my skills so I can pursure&nbsp;</p>",
+          "text3": "",
+          "_styles": {
+            "P": {
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_inherit": "features3",
