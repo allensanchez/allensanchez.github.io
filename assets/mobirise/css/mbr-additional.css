@@ -488,12 +488,24 @@ h6,
 #header2-w .mbr-section-title {
   color: #ffffff;
 }
+#header2-w .mbr-section-title P {
+  color: #ffffff;
+}
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-13 H3 {
+  color: #000000;
+}
 #content7-12 P {
   font-size: 19px;
+}
+#features6-s H4 {
+  color: #c1c1c1;
+}
+#contacts1-10 P {
+  color: #c1c1c1;
 }
 
 #menu-i .hide-buttons .nav-btn {
@@ -842,4 +854,7 @@ h6,
 #menu-14 .close-icon::before,
 #menu-14 .close-icon::after {
   background-color: #ffffff;
+}
+#contacts1-15 P {
+  color: #c1c1c1;
 }
