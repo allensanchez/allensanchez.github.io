@@ -872,6 +872,13 @@ h6,
 #header3-1g SMALL {
   color: #28324e;
 }
+#social-buttons4-1m .mbr-section-title,
+#social-buttons4-1m .btn-social {
+  color: #fff;
+}
+#social-buttons4-1m .mbr-section-title {
+  color: #ffffff;
+}
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
 }
