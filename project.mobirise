@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1760,6 +1760,9 @@
             },
             ".mbr-section-lead": {
               "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
               "text-align": "center"
             }
           },
