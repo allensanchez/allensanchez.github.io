@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1790,7 +1790,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; <i>Welcome</i>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp;Welcome",
           "text": "“Doing animation is closer to pretending than anything else you get to do. It’s much more like when you’re a kid putting on a character.” – Diedrich Bader<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Home Page</a>"
         },
