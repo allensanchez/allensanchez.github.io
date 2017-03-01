@@ -481,6 +481,9 @@ h6,
 #menu-i .close-icon::after {
   background-color: #ffffff;
 }
+#contacts4-1h P {
+  color: #ffffff;
+}
 
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -549,6 +552,9 @@ h6,
 #menu-l .close-icon::before,
 #menu-l .close-icon::after {
   background-color: #ffffff;
+}
+#contacts4-1h P {
+  color: #ffffff;
 }
 
 #menu-o .hide-buttons .nav-btn {
@@ -619,9 +625,15 @@ h6,
 #menu-o .close-icon::after {
   background-color: #ffffff;
 }
+#contacts4-1h P {
+  color: #ffffff;
+}
 
 #form1-1i .form-control-label {
   color: #232323;
+}
+#contacts4-1h P {
+  color: #ffffff;
 }
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -849,36 +861,26 @@ h6,
 #features6-s H4 {
   color: #28324e;
 }
+#contacts4-1h P {
+  color: #ffffff;
+}
 
-
-#header5-1e .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-  font-size: 60px;
-}
-#header5-1e .mbr-section-lead {
-  color: #ffffff;
-  text-align: center;
-}
-#header5-1e .mbr-section-title I {
-  text-align: center;
-}
-#msg-box4-1q H3 {
-  color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-}
-#msg-box4-1q .btn {
-  font-size: 17px;
+#header1-1s .btn {
+  font-size: 24px;
 }
 #header3-1g .mbr-section-title,
 #header3-1g .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1g H3 {
-  color: #28324e;
+  color: #ffffff;
 }
 #header3-1g SMALL {
-  color: #28324e;
+  color: #ffffff;
+}
+#social-buttons4-1r .mbr-section-title,
+#social-buttons4-1r .btn-social {
+  color: #fff;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -947,4 +949,7 @@ h6,
 #menu-18 .close-icon::before,
 #menu-18 .close-icon::after {
   background-color: #ffffff;
+}
+#contacts4-1h P {
+  color: #ffffff;
 }

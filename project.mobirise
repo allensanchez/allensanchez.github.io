@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 66,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -260,8 +260,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Webstie</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br>Allen Sanchez",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Web</a>stie</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "",
@@ -290,7 +290,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -527,8 +532,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Webstie</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br>Allen Sanchez",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Web</a>stie</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "",
@@ -557,7 +562,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -827,8 +837,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Webstie</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br>Allen Sanchez",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Web</a>stie</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "",
@@ -857,7 +867,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -943,8 +958,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Webstie</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br>Allen Sanchez",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Web</a>stie</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "",
@@ -973,7 +988,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -1686,8 +1706,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Webstie</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br>Allen Sanchez",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Web</a>stie</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "",
@@ -1716,7 +1736,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -1751,106 +1776,36 @@
       },
       "components": [
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "60px"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            ".mbr-section-title I": {
-              "text-align": "center"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-1e",
+          "_name": "header1",
+          "_anchor": "header1-1s",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
-          },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp;Welcome",
-          "text": "“Doing animation is closer to pretending than anything else you get to do. It’s much more like when you’re a kid putting on a character.” – Diedrich Bader<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Home Page</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1q",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/channel%20art-2000x1125.jpg",
-            "bgColor": "#28324e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
             "showButtons": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=OErKjvY8_bA",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Subscribe to my Youtube Channel",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/channel/UC_VZjKLqkYilVBjqmkXY8gg\" data-toolbar=\"-mbrBtnMove\">Subscribe Here</a>",
+          "title": "Welcome",
+          "text": "“Doing animation is closer to pretending than anything else you get to do. It’s much more like when you’re a kid putting on a character.” – Diedrich Baders.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"home.html\" data-toolbar=\"-mbrBtnMove\">Home Page</a> ",
           "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
             ".btn": {
-              "font-size": "17px"
+              "font-size": "24px"
             }
           }
         },
@@ -1860,10 +1815,10 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#28324e"
+              "color": "#ffffff"
             },
             "SMALL": {
-              "color": "#28324e"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1874,10 +1829,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#28324e",
             "showMeta": true
           },
-          "title": "Examples of my work",
+          "title": "Some of my Favorite Work",
           "meta": "By Allen Sanchez"
         },
         {
@@ -1887,8 +1842,8 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -1931,10 +1886,10 @@
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#28324e",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -1942,6 +1897,33 @@
           "_anchor": "gallery2-1f",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC_VZjKLqkYilVBjqmkXY8gg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_styles": {
@@ -2060,8 +2042,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Webstie</a></li><br></ul>",
+          "text1": "<strong>Address</strong><br>15375 sw 17th terrace<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: asanchez@miamiartsstudio.com<br>\nPhone: 786-571-2990<br>Allen Sanchez",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://http://mas.dadeschools.net/\">Miami Arts Studio School Website</a></li><li><a href=\"http://http://mas.dadeschools.net/pate%20class%20website/index.html\">Tech Production Class Web</a>stie</li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "",
@@ -2090,7 +2072,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
