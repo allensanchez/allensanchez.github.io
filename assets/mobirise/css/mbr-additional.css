@@ -850,6 +850,7 @@ h6,
   color: #28324e;
 }
 
+
 #header5-1e .mbr-section-title {
   color: #ffffff;
   text-align: center;
@@ -862,6 +863,13 @@ h6,
 #header5-1e .mbr-section-title I {
   text-align: center;
 }
+#msg-box4-1q H3 {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-1q .btn {
+  font-size: 17px;
+}
 #header3-1g .mbr-section-title,
 #header3-1g .mbr-section-subtitle {
   text-align: center;
@@ -871,13 +879,6 @@ h6,
 }
 #header3-1g SMALL {
   color: #28324e;
-}
-#social-buttons4-1p .mbr-section-title,
-#social-buttons4-1p .btn-social {
-  color: #fff;
-}
-#social-buttons4-1p .mbr-section-title {
-  color: #ffffff;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
