@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "Photoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -695,7 +695,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/allen-sanchez-19-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/allen-sanchez-20-2000x2000.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
