@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Photoshop.html",
+    "currentPage": "home.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 88,
+    "uniqCompNum": 90,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1733,6 +1733,61 @@
           "text1": "<p>I'm a 13 year old from Miami, Florida. I was born to two loving parents named Yusimi Coro and Wiler Sanchez. I also have two siblings, Wiler Sanchez and Melanie Sanchez. Ever since I was young I've always loved watching animated movies and seeing characters come to life. I would always make stop motion animations with Legos or anything in my sight. Animation and graphic design is a passin of mines. In the future I would want to pursue a career in animation and grapic design&nbsp;</p>",
           "text2": "<p>&nbsp;For Middle School I attended Miami Arts Studios, magnet program, Tech Production. I joined Tech Production solely to learn programs like Photoshop, Illustrator, and 3D animation. Tech Production also introduced me to new things, like producing music. I've taken a interest in music in a whole new level.. I'm starting to have a passion for music and maybe one day become a music producer. Finally, video games have been in my life for the longest time.</p>",
           "text3": "<p>However, instead of playing the video games, I want to create the video games. Maybe one day kids are going to be my own video game. I am going to continue to pursure my passion. This website was created it to show off my work.</p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2h",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=Kdx_djyAqOs&t=7s",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "features3",
