@@ -879,9 +879,6 @@ h6,
 #header3-13 SMALL {
   color: #475577;
 }
-#msg-box4-2h H3 {
-  color: #ffffff;
-}
 #features6-s H4 {
   color: #475577;
 }
@@ -908,6 +905,13 @@ h6,
 }
 #social-buttons4-1r .mbr-section-title {
   color: #ffffff;
+}
+#msg-box1-2k H3 {
+  color: #475577;
+  text-align: left;
+}
+#msg-box1-2k H2 {
+  color: #475577;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
