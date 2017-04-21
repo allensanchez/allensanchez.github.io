@@ -619,7 +619,7 @@ h6,
 }
 #menu-o .link[aria-expanded="true"],
 #menu-o .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ffffff!important;
 }
 #menu-o.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -635,6 +635,9 @@ h6,
   font-size: 15px;
 }
 #msg-box4-2l H3 {
+  color: #475577;
+}
+#msg-box4-2o H3 {
   color: #475577;
 }
 #contacts4-1h P {
@@ -850,7 +853,7 @@ h6,
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ffffff!important;
 }
 #menu-1.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
