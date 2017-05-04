@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Adobe Premiere.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1081,11 +1081,15 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "link": "https://www.youtube.com/watch?v=eKc4hmLBY90&t=11s",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=pE6PuQCYpCo",
+              "src": "https://www.youtube.com/watch?v=eKc4hmLBY90&t=11s",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -1098,7 +1102,7 @@
           },
           "title": "Thousand Million Reasons",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=pE6PuQCYpCo\" data-toolbar=\"-mbrBtnMove\">Click Here&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.youtube.com/watch?v=eKc4hmLBY90&amp;t=11s\" data-toolbar=\"-mbrBtnMove\">Click Here&nbsp;</a>"
         },
         {
           "_tags": [
